@@ -7,7 +7,7 @@
 ![Real Estates_Price.png](https://github.com/Sameh20200218AI/Egypt_Real_Estates_Report_Using_PowerBI_and_ML_Models/blob/main/Real%20Estates_Price.png)
 
 ## Summary
-![Real Estate Page 3.png](https://github.com/Sameh20200218AI/Egypt_Real_Estates_Report_Using_PowerBI_and_ML_Models/blob/main/Real%20Estate%20Page%203.png)
+![Real Estates_Summary.png](https://github.com/Sameh20200218AI/Egypt_Real_Estates_Report_Using_PowerBI_and_ML_Models/blob/main/Real%20Estates_Summary.png)
 
 ## Machine Learning Models For Regression
 ![Real Estate Page 4.png](https://github.com/Sameh20200218AI/Egypt_Real_Estates_Report_Using_PowerBI_and_ML_Models/blob/main/Real%20Estate%20Page%204.png)
